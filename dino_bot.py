@@ -1,3 +1,5 @@
+#Chrome Dino offline game playing bot by finding the cordinates of the cactuses where to jump and of the dino
+
 import pyautogui
 import time
 from numpy import *
